@@ -1,0 +1,11 @@
+﻿Scenario,Net_Monthly_Income_COP,Monthly_Property_Cost_COP,Monthly_Surplus_or_Deficit_COP,Emergency_Reserve_COP,Months_Reserve_Last,Interest_Rate,Exchange_Rate_Assumption,Repair_Cost_COP,Vacancy_Months,Estimated_Property_Value_COP,Loan_Balance_COP,Estimated_Equity_COP,Affordable,Required_Action,Notes
+Base Case,,,,,,,,,,,,,,,
+Employment Income Stops,,,,,,,,,,,,,,,
+Interest Rate Plus 2 Percent,,,,,,,,,,,,,,,
+Interest Rate Plus 4 Percent,,,,,,,,,,,,,,,
+COP Strengthens,,,,,,,,,,,,,,,
+Major Repair 3 Percent,,,,,,,,,,,,,,,
+Major Repair 5 Percent,,,,,,,,,,,,,,,
+Six Month Vacancy,,,,,,,,,,,,,,,
+Property Value Down 15 Percent,,,,,,,,,,,,,,,
+Property Value Down 25 Percent,,,,,,,,,,,,,,,

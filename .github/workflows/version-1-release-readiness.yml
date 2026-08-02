@@ -1,0 +1,32 @@
+﻿name: Version 1 Release Readiness
+
+on:
+  push:
+    branches:
+      - main
+      - production/**
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  release-readiness:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate CSV files
+        shell: pwsh
+        run: ./scripts/Test-PortfolioCsvQuality.ps1
+
+      - name: Validate Markdown files
+        shell: pwsh
+        run: ./scripts/Test-PortfolioMarkdownQuality.ps1
+
+      - name: Validate release readiness
+        shell: pwsh
+        run: ./scripts/Test-RepositoryReleaseReadiness.ps1

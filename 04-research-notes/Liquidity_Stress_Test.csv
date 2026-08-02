@@ -1,0 +1,11 @@
+﻿Scenario,Monthly_Reliable_Income_COP,Monthly_Essential_Expenses_COP,Immediate_Unexpected_Cost_COP,Property_Cost_COP,Tax_Cost_COP,Available_Seven_Day_Liquidity_COP,Available_Thirty_Day_Liquidity_COP,Available_Ninety_Day_Liquidity_COP,Monthly_Deficit_COP,Months_Reserves_Last,Forced_Asset_Sale_Required,Required_Action,Final_Status,Notes
+Base Case,,,,,,,,,,,,,,
+Income Delayed Two Weeks,,,,,,,,,,,,,,
+Income Delayed One Month,,,,,,,,,,,,,,
+Income Delayed Three Months,,,,,,,,,,,,,,
+Employment Income Stops,,,,,,,,,,,,,,
+Major Medical Expense,,,,,,,,,,,,,,
+Property Emergency,,,,,,,,,,,,,,
+COP Strengthens,,,,,,,,,,,,,,
+Primary Bank Inaccessible Seven Days,,,,,,,,,,,,,,
+Combined Income Medical and Property Event,,,,,,,,,,,,,,

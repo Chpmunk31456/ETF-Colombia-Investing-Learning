@@ -1,0 +1,11 @@
+﻿Payment_ID,Property,Payment_Type,Due_Date,Amount,Currency,Recipient_Legal_Name,Recipient_Account,Receiving_Bank,Payment_Purpose,Contract_Reference,Payment_Completed,Payment_Date,Transaction_Reference,Receipt_Received,Attorney_Verified,Notes
+1,,Reservation,,,,,,,,,,,,,,
+2,,Arras,,,,,,,,,,,,,,
+3,,Down Payment,,,,,,,,,,,,,,
+4,,Mortgage Payoff,,,,,,,,,,,,,,
+5,,Closing Balance,,,,,,,,,,,,,,
+6,,Notarial Costs,,,,,,,,,,,,,,
+7,,Registration Costs,,,,,,,,,,,,,,
+8,,Taxes or Withholding,,,,,,,,,,,,,,
+9,,Administration Payoff,,,,,,,,,,,,,,
+10,,Other,,,,,,,,,,,,,,

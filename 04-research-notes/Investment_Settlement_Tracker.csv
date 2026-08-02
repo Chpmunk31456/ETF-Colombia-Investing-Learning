@@ -1,0 +1,1 @@
+﻿Settlement_ID,Transaction_ID,Account,Security,Currency,Trade_Date,Expected_Settlement_Date,Actual_Settlement_Date,Expected_Cash_Change,Actual_Cash_Change,Expected_Quantity_Change,Actual_Quantity_Change,Fees_Expected,Fees_Actual,Settlement_Status,Difference_Amount,Exception_Required,Next_Action,Notes

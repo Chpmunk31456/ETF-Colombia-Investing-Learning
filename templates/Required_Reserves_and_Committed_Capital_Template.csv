@@ -1,0 +1,11 @@
+﻿Valuation_Date,Category,Amount_COP,Required_or_Optional,Purpose,Target_Date,Storage_Location,Liquid_Within_Days,Included_in_Emergency_Reserve,Included_in_Committed_Capital,Available_for_Investment,Notes
+Emergency Reserve,,,,,,,,,,,
+Medical Reserve,,,,,,,,,,,
+Tax Reserve,,,,,,,,,,,
+Property Reserve,,,,,,,,,,,
+Vehicle Reserve,,,,,,,,,,,
+Legal Reserve,,,,,,,,,,,
+Family Support Reserve,,,,,,,,,,,
+Currency Reserve,,,,,,,,,,,
+Insurance Reserve,,,,,,,,,,,
+Other Reserve,,,,,,,,,,,

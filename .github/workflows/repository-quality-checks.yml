@@ -1,0 +1,54 @@
+﻿name: Repository Quality Checks
+
+on:
+  push:
+    branches:
+      - main
+      - production/**
+      - develop
+      - feature/**
+      - translation/**
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality-checks:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Run repository-quality audit
+        shell: pwsh
+        run: |
+          ./scripts/Test-RepositoryQuality.ps1 `
+            -RepositoryPath $PWD.Path
+
+      - name: Generate curriculum inventory
+        shell: pwsh
+        run: |
+          ./scripts/New-CurriculumInventory.ps1 `
+            -RepositoryPath $PWD.Path `
+            -OutputPath `
+              "$PWD/quality-assurance/Curriculum_Lesson_Inventory.csv"
+
+      - name: Display repository status
+        shell: pwsh
+        run: |
+          git status --short
+
+      - name: Upload quality evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: repository-quality-evidence
+          path: |
+            quality-assurance/Repository_Audit_*.md
+            quality-assurance/Repository_File_Inventory_*.csv
+            quality-assurance/Repository_SHA256_*.csv
+            quality-assurance/Curriculum_Lesson_Inventory.csv
+          if-no-files-found: error
+          retention-days: 14

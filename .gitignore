@@ -1,0 +1,66 @@
+﻿# Private and Generated Files
+private/
+secure/
+confidential/
+completed-worksheets/
+personal-records/
+statements/
+tax-records/
+identity-documents/
+tenant-records/
+legal-documents/
+property-documents/
+
+# Secrets and Credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.secrets
+secrets.*
+credentials.*
+recovery-codes*
+password-export*
+
+# Financial and Identity Files
+*bank-statement*
+*brokerage-statement*
+*tax-return*
+*passport*
+*cedula*
+*identification*
+*account-number*
+*beneficiary-record*
+*medical-record*
+
+# Archives and Backups
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.bak
+*.backup
+*.old
+*.tmp
+
+# Operating System and Editors
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+~$*
+.vscode/
+.idea/
+
+# Generated Reports
+security-reports/
+scan-results/
+coverage/
+dist/
+build/

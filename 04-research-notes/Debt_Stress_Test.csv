@@ -1,0 +1,12 @@
+﻿Scenario,Reliable_Monthly_Income_COP,Variable_Monthly_Income_COP,Required_Debt_Payments_COP,Variable_Rate_Increase_Percentage,Currency_Adjustment_Percentage,Rental_Income_Lost_COP,Medical_Expense_COP,Available_Reserve_COP,Monthly_Surplus_or_Deficit_COP,Debt_Service_Ratio,Months_Reserve_Last,Collateral_at_Risk,Required_Action,Status,Notes
+Base Case,,,,,,,,,,,,,,,
+Employment Income Declines,,,,,,,,,,,,,,,
+Consulting Income Stops,,,,,,,,,,,,,,,
+Interest Rate Plus 2 Percent,,,,,,,,,,,,,,,
+Interest Rate Plus 4 Percent,,,,,,,,,,,,,,,
+COP Strengthens,,,,,,,,,,,,,,,
+Three Month Rental Vacancy,,,,,,,,,,,,,,,
+Six Month Rental Vacancy,,,,,,,,,,,,,,,
+Major Medical Expense,,,,,,,,,,,,,,,
+Collateral Value Declines 20 Percent,,,,,,,,,,,,,,,
+Combined Stress Scenario,,,,,,,,,,,,,,,

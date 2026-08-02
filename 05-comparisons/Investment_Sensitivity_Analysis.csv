@@ -1,0 +1,13 @@
+﻿Investment,Variable,Base_Value,Lower_Test_Value,Higher_Test_Value,Base_Result,Lower_Result,Higher_Result,Most_Sensitive_Direction,Material_to_Decision,Required_Action,Notes
+ETF,Annual Return,,,,,,,,,,
+ETF,Expense Ratio,,,,,,,,,,
+ETF,Currency Return,,,,,,,,,,
+CDT,Renewal Rate,,,,,,,,,,
+CDT,Inflation,,,,,,,,,,
+CDT,Tax Withholding,,,,,,,,,,
+Property,Purchase Price,,,,,,,,,,
+Property,Repair Cost,,,,,,,,,,
+Property,Monthly Rent,,,,,,,,,,
+Property,Vacancy,,,,,,,,,,
+Property,Sale Price,,,,,,,,,,
+Property,Holding Period,,,,,,,,,,

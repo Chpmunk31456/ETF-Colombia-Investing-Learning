@@ -1,0 +1,13 @@
+﻿Scenario,Monthly_Contractual_Rent_COP,Vacancy_Months,Collection_Loss_COP,Annual_Operating_Expenses_COP,Annual_Loan_Payments_COP,Major_Repair_COP,Administration_Increase_COP,Property_Manager_Loss_COP,Annual_Net_Operating_Income_COP,Annual_Pre_Tax_Cash_Flow_COP,Reserve_Beginning_COP,Reserve_Ending_COP,Additional_Funding_Required_COP,Property_Remains_Viable,Required_Action,Notes
+Base Case,,,,,,,,,,,,,,,,
+Three Month Vacancy,,,,,,,,,,,,,,,,
+Six Month Vacancy,,,,,,,,,,,,,,,,
+Tenant Nonpayment,,,,,,,,,,,,,,,,
+Major Repair 3 Percent,,,,,,,,,,,,,,,,
+Major Repair 5 Percent,,,,,,,,,,,,,,,,
+Major Repair 10 Percent,,,,,,,,,,,,,,,,
+Rent Declines 10 Percent,,,,,,,,,,,,,,,,
+Rent Declines 20 Percent,,,,,,,,,,,,,,,,
+Administration Increase,,,,,,,,,,,,,,,,
+Interest Rate Increase,,,,,,,,,,,,,,,,
+Property Manager Failure,,,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+﻿Deprecated_Term,Preferred_Term,Category,Reason,Effective_Date,Affected_Files,Migration_Status,Approved_By,Notes
+Emergency fund,Emergency reserve,Planning,Repository standard emphasizes assigned and controlled reserve purpose,,,Open,,
+Rainy-day fund,Emergency reserve,Planning,Informal wording is less precise for governance and templates,,,Open,,
+Investment money,Investable capital,Planning,The preferred term distinguishes available capital from reserves and obligations,,,Open,,
+Property worth,Property value,Property,Property worth is ambiguous and may be confused with equity,,,Open,,
+Profit before costs,Gross return or gross proceeds,Performance,Profit should not be stated before all relevant costs are defined,,,Open,,
+Guaranteed investment,Prohibited unless legally verified guarantee is precisely described,Risk,The phrase may mislead learners about risk and recovery,,,Open,,

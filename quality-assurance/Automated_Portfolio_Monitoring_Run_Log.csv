@@ -1,0 +1,1 @@
+﻿Run_ID,Run_Date_Time,Automation_Name,Script_or_Workflow,Script_Version,Input_Snapshot_Date,Input_Row_Count,Output_Row_Count,Quality_Checks_Executed,Checks_Passed,Checks_Failed,Warnings,Critical_Exceptions,Output_Location,Run_Duration_Seconds,Run_Status,Reviewed_By,Review_Date,Next_Scheduled_Run,Notes

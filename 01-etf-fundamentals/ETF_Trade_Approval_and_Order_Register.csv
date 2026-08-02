@@ -1,0 +1,1 @@
+﻿Trade_ID,Decision_ID,Approval_Date,Account_ID,Fund_Name,Ticker,ISIN,Exchange,Buy_or_Sell,Approved_Quantity,Approved_Maximum_Value,Order_Type,Limit_Price,Time_in_Force,Preferred_Execution_Window,Underlying_Market_Open,Pre_Trade_Bid,Pre_Trade_Ask,Pre_Trade_Midpoint,Estimated_Spread_Percentage,Approval_Status,Approved_By,Execution_Status,Notes

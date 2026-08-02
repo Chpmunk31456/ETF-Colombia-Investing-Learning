@@ -1,0 +1,11 @@
+﻿Bucket_ID,Bucket_Name,Purpose,Target_Amount_COP,Current_Amount_COP,Monthly_Contribution_COP,Target_Date,Permitted_Uses,Prohibited_Uses,Storage_Location,Access_Time_Days,Automatic_Transfer,Last_Reviewed,Status,Notes
+1,Monthly Operating Cash,,,,,,,,,,,,,
+2,Emergency Reserve,,,,,,,,,,,,,
+3,Medical Reserve,,,,,,,,,,,,,
+4,Tax Reserve,,,,,,,,,,,,,
+5,Property Reserve,,,,,,,,,,,,,
+6,Vehicle Reserve,,,,,,,,,,,,,
+7,Insurance Deductible Reserve,,,,,,,,,,,,,
+8,Near-Term Goals,,,,,,,,,,,,,
+9,Investment Funding,,,,,,,,,,,,,
+10,Opportunity Reserve,,,,,,,,,,,,,

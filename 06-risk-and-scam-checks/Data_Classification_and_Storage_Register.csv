@@ -1,0 +1,9 @@
+﻿Data_Category,Example,Classification,Approved_Storage,Encryption_Required,Backup_Required,Authorized_Access,Retention_Period,Git_Allowed,Redaction_Required,Last_Reviewed,Notes
+Learning lessons,,Public,Git repository,No,Yes,Owner,Permanent,Yes,No,,
+Blank templates,,Public,Git repository,No,Yes,Owner,Permanent,Yes,No,,
+Completed personal worksheets,,Confidential,Encrypted private vault,Yes,Yes,Restricted,Professional guidance,No,Yes,,
+Tax records,,Highly Restricted,Encrypted private vault,Yes,Yes,Restricted,Professional guidance,No,Yes,,
+Identity documents,,Highly Restricted,Encrypted private vault,Yes,Yes,Restricted,As required,No,Yes,,
+Property documents,,Confidential,Encrypted private vault,Yes,Yes,Restricted,Long term,No,Yes,,
+Tenant records,,Highly Restricted,Encrypted private vault,Yes,Yes,Restricted,Professional guidance,No,Yes,,
+Passwords and recovery codes,,Highly Restricted,Password manager,Yes,Yes,Restricted,While active,No,Not applicable,,

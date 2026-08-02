@@ -1,0 +1,20 @@
+﻿Acronym,Full_Term,Category,Primary_Meaning,Ambiguous,First_Use_Required,Primary_Lesson,Status,Notes
+AML,Anti-Money Laundering,Compliance,Controls and requirements intended to prevent prohibited financial activity,No,Yes,Lesson 46,Reviewed,
+bp,Basis point,Investment mathematics,One hundredth of one percentage point,Yes,Yes,Lesson 29,Reviewed,Lowercase usage may vary by style.
+CapEx,Capital expenditure,Property,Spending that acquires improves or materially extends an asset,No,Yes,Lesson 24,Reviewed,
+CDT,Certificate of term deposit,Fixed income,Colombian term-deposit product terminology,Yes,Yes,Lesson 6,Jurisdiction review required,Verify current product terms.
+COP,Colombian peso,Currency,ISO currency code for Colombian pesos,No,Yes,Lesson 5,Reviewed,
+DSCR,Debt-service coverage ratio,Property finance,Net operating income divided by debt service,No,Yes,Lesson 35,Reviewed,
+EAR,Effective annual rate,Debt and fixed income,Annual rate incorporating compounding,No,Yes,Lesson 35,Reviewed,
+ETF,Exchange-traded fund,ETF,Pooled investment vehicle whose shares trade on an exchange,No,Yes,Lesson 1,Reviewed,
+IRR,Internal rate of return,Investment mathematics,Discount rate that makes NPV equal to zero,No,Yes,Lesson 29,Reviewed,
+KYC,Know Your Customer,Compliance,Customer identity and verification processes,No,Yes,Lesson 46,Reviewed,
+LTV,Loan-to-value ratio,Property finance,Loan balance divided by defined property value,No,Yes,Lesson 21,Reviewed,
+MFA,Multi-factor authentication,Cybersecurity,Authentication using more than one factor,No,Yes,Lesson 27,Reviewed,
+MWR,Money-weighted return,Performance,Return reflecting timing and size of investor cash flows,No,Yes,Lesson 38,Reviewed,
+NAV,Net asset value,ETF,Fund assets minus liabilities under its calculation method,Yes,Yes,Lesson 1,Reviewed,
+NOI,Net operating income,Property,Property operating income minus defined operating expenses,No,Yes,Lesson 23,Reviewed,
+NPV,Net present value,Investment mathematics,Present value of cash flows minus investment cost,No,Yes,Lesson 29,Reviewed,
+PII,Personally identifiable information,Privacy,Information capable of identifying or materially relating to a person,Yes,Yes,Lesson 27,Jurisdiction review required,Legal definitions vary.
+TWR,Time-weighted return,Performance,Return measure reducing effects of external cash flows,No,Yes,Lesson 38,Reviewed,
+USD,United States dollar,Currency,ISO currency code for United States dollars,No,Yes,Lesson 8,Reviewed,

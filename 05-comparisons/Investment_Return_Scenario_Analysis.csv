@@ -1,0 +1,13 @@
+﻿Investment,Scenario,Initial_Value,Annual_Return_Percentage,Inflation_Percentage,Annual_Fees_Percentage,Tax_Rate_Percentage,Currency_Return_Percentage,Holding_Period_Years,Contributions,Withdrawals,Projected_Ending_Value,Projected_Net_Return_Percentage,Projected_Real_Return_Percentage,Primary_Assumption,Decision_Impact,Notes
+ETF,Optimistic,,,,,,,,,,,,,,,
+ETF,Base Case,,,,,,,,,,,,,,,
+ETF,Conservative,,,,,,,,,,,,,,,
+ETF,Severe Case,,,,,,,,,,,,,,,
+CDT,Optimistic,,,,,,,,,,,,,,,
+CDT,Base Case,,,,,,,,,,,,,,,
+CDT,Conservative,,,,,,,,,,,,,,,
+CDT,Severe Case,,,,,,,,,,,,,,,
+Property,Optimistic,,,,,,,,,,,,,,,
+Property,Base Case,,,,,,,,,,,,,,,
+Property,Conservative,,,,,,,,,,,,,,,
+Property,Severe Case,,,,,,,,,,,,,,,
