@@ -1,0 +1,11 @@
+ID_del_pago,Propiedad,Tipo_de_pago,Fecha_de_vencimiento,Monto,Moneda,Nombre_legal_del_destinatario,Cuenta_del_destinatario,Banco_receptor,Proposito_del_pago,Referencia_contractual,Pago_completado,Fecha_del_pago,Referencia_de_transaccion,Recibo_recibido,Verificado_por_abogado,Notas
+1,,Reserva,,,,,,,,,,,,,,
+2,,Arras,,,,,,,,,,,,,,
+3,,Cuota_inicial,,,,,,,,,,,,,,
+4,,Pago_de_hipoteca,,,,,,,,,,,,,,
+5,,Saldo_de_cierre,,,,,,,,,,,,,,
+6,,Costos_notariales,,,,,,,,,,,,,,
+7,,Costos_de_registro,,,,,,,,,,,,,,
+8,,Impuestos_o_retencion,,,,,,,,,,,,,,
+9,,Pago_de_administracion,,,,,,,,,,,,,,
+10,,Otro,,,,,,,,,,,,,,
