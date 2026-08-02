@@ -13,11 +13,12 @@ Esta carpeta contiene las traducciones al español de las lecciones del proyecto
 ## Fundamentos de los ETF
 
 1. [Lección 1 — ¿Qué es un ETF?](01-fundamentos-etf/01_Que_es_un_ETF.md)
+2. [Lección 2 — Costos de los ETF y mecánica de negociación](01-fundamentos-etf/02_Costos_y_negociacion_de_ETF.md)
 
 ## Estado de traducción
 
 - [x] Lección 1 — ¿Qué es un ETF?
-- [ ] Lección 2 — Costos y negociación de ETF
+- [x] Lección 2 — Costos y negociación de ETF
 - [ ] Lección 3 — Diversificación, riesgo y caídas del mercado
 - [ ] Lección 4 — Tipos de ETF y construcción de índices
 - [ ] Inversiones en Colombia
