@@ -1,0 +1,4 @@
+Escenario,Oferta_ganadora_COP,Impuestos_y_registro_COP,Costos_legales_y_de_posesion_COP,Deudas_pendientes_COP,Reparaciones_COP,Contingencia_de_reparaciones_COP,Costo_de_financiacion_COP,Costos_de_mantenimiento_COP,Costo_total_del_proyecto_COP,Arriendo_mensual_esperado_COP,Tasa_de_vacancia,Ingreso_operativo_neto_anual_COP,Tasa_de_capitalizacion,Efectivo_total_invertido_COP,Flujo_de_caja_anual_antes_de_impuestos_COP,Rendimiento_sobre_efectivo,Valor_de_reventa_esperado_COP,Costos_de_venta_COP,Ingresos_netos_de_reventa_COP,Utilidad_estimada_COP,Porcentaje_de_rendimiento_estimado,Meses_hasta_la_posesion,Meses_hasta_la_salida,Decision
+Mejor_caso,,,,,,,,,,,,,,,,,,,,,,,,,
+Caso_base,,,,,,,,,,,,,,,,,,,,,,,,,
+Peor_caso,,,,,,,,,,,,,,,,,,,,,,,,,
