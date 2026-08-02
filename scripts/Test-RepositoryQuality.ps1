@@ -59,7 +59,7 @@ foreach ($file in $markdownFiles) {
             $lessons += [pscustomobject]@{
                 LessonNumber = [int]$Matches[1]
                 LessonTitle  = $Matches[2].Trim()
-                RelativePath = [IO.Path]::GetRelativePath($repo, $file.FullName)
+            RelativePath = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
             }
             break
         }
@@ -77,7 +77,7 @@ foreach ($file in $csvFiles) {
 
     if ([string]::IsNullOrWhiteSpace($firstLine)) {
         $csvProblems += [pscustomobject]@{
-            File  = [IO.Path]::GetRelativePath($repo, $file.FullName)
+            File = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
             Issue = "Missing or blank header row"
         }
         continue
@@ -90,7 +90,7 @@ foreach ($file in $csvFiles) {
 
     if ($duplicateHeaders) {
         $csvProblems += [pscustomobject]@{
-            File  = [IO.Path]::GetRelativePath($repo, $file.FullName)
+            File  = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
             Issue = "Duplicate header names: " +
                 (($duplicateHeaders.Name) -join ", ")
         }
@@ -123,7 +123,7 @@ foreach ($file in $markdownFiles) {
 
             if (-not (Test-Path -LiteralPath $candidate)) {
                 $brokenLinks += [pscustomobject]@{
-                    File   = [IO.Path]::GetRelativePath($repo, $file.FullName)
+                    File   = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
                     Line   = $lineNumber + 1
                     Target = $target
                 }
@@ -168,7 +168,7 @@ foreach ($file in $textFiles) {
         foreach ($patternName in $sensitivePatterns.Keys) {
             if ($content[$lineNumber] -match $sensitivePatterns[$patternName]) {
                 $sensitiveFindings += [pscustomobject]@{
-                    File    = [IO.Path]::GetRelativePath($repo, $file.FullName)
+                    File    = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
                     Line    = $lineNumber + 1
                     Finding = $patternName
                 }
@@ -179,7 +179,7 @@ foreach ($file in $textFiles) {
 
 $inventory = foreach ($file in $allFiles) {
     [pscustomobject]@{
-        RelativePath  = [IO.Path]::GetRelativePath($repo, $file.FullName)
+        RelativePath = $file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar)
         Extension     = $file.Extension
         SizeBytes     = $file.Length
         LastWriteTime = $file.LastWriteTime.ToString("s")
@@ -233,11 +233,11 @@ if ([string]::IsNullOrWhiteSpace(($gitStatus -join ""))) {
     $report.Add("Working tree was clean when checked.")
 }
 else {
-    $report.Add("```text")
+$report.Add('```text')
     foreach ($line in $gitStatus) {
         $report.Add([string]$line)
     }
-    $report.Add("```")
+$report.Add('```')
 }
 
 $report.Add("")
@@ -260,7 +260,7 @@ if ($emptyFiles.Count -eq 0) {
 }
 else {
     foreach ($file in $emptyFiles) {
-        $report.Add("- ``$([IO.Path]::GetRelativePath($repo, $file.FullName))``")
+        $report.Add("- ``$($file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar))``")
     }
 }
 
@@ -276,7 +276,7 @@ else {
         $report.Add("- **$($group.Name)**")
         foreach ($file in $group.Group) {
             $report.Add(
-                "  - ``$([IO.Path]::GetRelativePath($repo, $file.FullName))``"
+                "  - ``$($file.FullName.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar))``"
             )
         }
     }
@@ -351,10 +351,10 @@ $report.Add("")
 $report.Add("## Generated Evidence")
 $report.Add("")
 $report.Add(
-    "- Inventory: ``$([IO.Path]::GetRelativePath($repo, $inventoryPath))``"
+    "- Inventory: ``$($inventoryPath.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar))``"
 )
 $report.Add(
-    "- Checksums: ``$([IO.Path]::GetRelativePath($repo, $checksumPath))``"
+    "- Checksums: ``$($checksumPath.Substring($repo.Length).TrimStart([IO.Path]::DirectorySeparatorChar, [IO.Path]::AltDirectorySeparatorChar))``"
 )
 $report.Add("")
 $report.Add("## Required Manual Review")
@@ -391,3 +391,4 @@ else {
 if ($sensitiveFindings.Count -gt 0) {
     Write-Warning "Possible sensitive information requires manual validation."
 }
+
