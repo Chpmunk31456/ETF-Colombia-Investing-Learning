@@ -1,0 +1,13 @@
+Escenario,Arriendo_mensual_contractual_COP,Meses_de_vacancia,Perdida_por_cobro_COP,Gastos_operativos_anuales_COP,Pagos_anuales_del_prestamo_COP,Reparacion_mayor_COP,Aumento_de_administracion_COP,Perdida_por_administrador_COP,Ingreso_operativo_neto_anual_COP,Flujo_de_caja_anual_antes_de_impuestos_COP,Reserva_inicial_COP,Reserva_final_COP,Financiacion_adicional_requerida_COP,La_propiedad_sigue_siendo_viable,Accion_requerida,Notas
+Caso_base,,,,,,,,,,,,,,,,
+Vacancia_de_tres_meses,,,,,,,,,,,,,,,,
+Vacancia_de_seis_meses,,,,,,,,,,,,,,,,
+Incumplimiento_del_arrendatario,,,,,,,,,,,,,,,,
+Reparacion_mayor_3_por_ciento,,,,,,,,,,,,,,,,
+Reparacion_mayor_5_por_ciento,,,,,,,,,,,,,,,,
+Reparacion_mayor_10_por_ciento,,,,,,,,,,,,,,,,
+El_arriendo_baja_10_por_ciento,,,,,,,,,,,,,,,,
+El_arriendo_baja_20_por_ciento,,,,,,,,,,,,,,,,
+Aumento_de_administracion,,,,,,,,,,,,,,,,
+Aumento_de_tasa_de_interes,,,,,,,,,,,,,,,,
+Falla_del_administrador_de_la_propiedad,,,,,,,,,,,,,,,,
