@@ -1,15 +1,29 @@
-# Edición en español — ETF e inversión en Colombia
+# Edición completa en español — ETF e inversión en Colombia
 
-Esta carpeta contiene la edición completa en español de las 25 lecciones principales, las hojas de trabajo prácticas y un paquete complementario de plantillas reutilizables para facilitar su lectura, estudio y conversación en familia.
+[Volver al README bilingüe principal](../README.md)
+
+Esta carpeta contiene la edición completa en español para lectura, estudio y conversación en familia.
+
+## Estado de publicación
+
+- [x] 25 de 25 lecciones principales
+- [x] 31 de 31 hojas de trabajo CSV
+- [x] 19 plantillas reutilizables
+- [x] Originales en inglés preservados
+- [x] Navegación en español actualizada
+
+> Este material tiene fines exclusivamente educativos. No constituye asesoría individualizada legal, tributaria, financiera, crediticia, de inversión ni inmobiliaria.
 
 ## Cómo utilizar esta edición
 
-1. Lea las lecciones en el orden indicado.
-2. Converse en familia sobre las preguntas de reflexión y las listas de verificación.
-3. Complete primero los ejercicios simulados y de investigación.
-4. No invierta dinero real únicamente con base en estas lecciones.
-5. Verifique siempre la información vigente mediante fuentes oficiales.
-6. Solicite asesoría profesional cuando existan implicaciones tributarias, jurídicas, financieras, crediticias o inmobiliarias.
+1. Lea las lecciones en orden.
+2. Complete primero los ejercicios simulados y las hojas de investigación.
+3. Converse en familia sobre riesgos, objetivos y preguntas pendientes.
+4. Verifique la información vigente mediante fuentes oficiales.
+5. Solicite revisión profesional cuando existan implicaciones tributarias, jurídicas, financieras, crediticias, sucesorales o inmobiliarias.
+6. No utilice dinero real mientras falte información material.
+
+---
 
 ## 1. Fundamentos de los ETF
 
@@ -57,7 +71,9 @@ Esta carpeta contiene la edición completa en español de las 25 lecciones princ
 24. [Lección 24 — Planificación de renovaciones y controles de contratistas](07-bienes-raices-y-propiedades-en-dificultades/06_Planificacion_de_renovaciones_y_controles_de_contratistas.md)
 25. [Lección 25 — Venta, salida y conciliación de utilidades de propiedades](07-bienes-raices-y-propiedades-en-dificultades/07_Venta_salida_y_conciliacion_de_utilidades_de_propiedades.md)
 
-## 8. Hojas de trabajo prácticas
+---
+
+## 8. Hojas de trabajo en español
 
 ### ETF, portafolio y jubilación
 
@@ -68,7 +84,7 @@ Esta carpeta contiene la edición completa en español de las 25 lecciones princ
 - [Flujo de caja anual de jubilación](08-hojas-de-trabajo/Flujo_de_caja_anual_de_jubilacion.csv)
 - [Registro de ingresos de jubilación](08-hojas-de-trabajo/Registro_de_ingresos_de_jubilacion.csv)
 
-### Investigación, seguimiento y pruebas
+### Investigación, seguimiento y prueba piloto
 
 - [Registro maestro de decisiones](08-hojas-de-trabajo/Registro_maestro_de_decisiones.csv)
 - [Registro de evidencia](08-hojas-de-trabajo/Registro_de_evidencia.csv)
@@ -77,51 +93,68 @@ Esta carpeta contiene la edición completa en español de las 25 lecciones princ
 - [Valoraciones del portafolio simulado](08-hojas-de-trabajo/Valoraciones_del_portafolio_simulado.csv)
 - [Seguimiento del plan de aprendizaje de 30 días](08-hojas-de-trabajo/Seguimiento_del_plan_de_aprendizaje_de_30_dias.csv)
 - [Registro de prueba piloto con dinero real](08-hojas-de-trabajo/Registro_de_prueba_piloto_con_dinero_real.csv)
+
+### Colombia y planificación transfronteriza
+
 - [Seguimiento de vencimientos de CDT](08-hojas-de-trabajo/Seguimiento_de_vencimientos_de_CDT.csv)
-
-### Planificación transfronteriza y fraude
-
 - [Inventario transfronterizo de activos y beneficiarios](08-hojas-de-trabajo/Inventario_transfronterizo_de_activos_y_beneficiarios.csv)
 - [Inventario transfronterizo de deudas](08-hojas-de-trabajo/Inventario_transfronterizo_de_deudas.csv)
-- [Matriz de riesgo de estafa](08-hojas-de-trabajo/Matriz_de_riesgo_de_estafa.csv)
 
-### Bienes raíces
+### Fraude y seguridad
+
+- [Puntuación de riesgo de estafa](08-hojas-de-trabajo/Puntuacion_de_riesgo_de_estafa.csv)
+
+### Bienes raíces y propiedades en dificultades
 
 - [Comparación de propiedades en dificultades](08-hojas-de-trabajo/Comparacion_de_propiedades_en_dificultades.csv)
 - [Analizador de operaciones inmobiliarias](08-hojas-de-trabajo/Analizador_de_operaciones_inmobiliarias.csv)
-- [Financiación y capacidad de pago inmobiliaria](08-hojas-de-trabajo/Financiacion_y_capacidad_de_pago_inmobiliaria.csv)
+- [Financiación y capacidad de pago de propiedad](08-hojas-de-trabajo/Financiacion_y_capacidad_de_pago_de_propiedad.csv)
 - [Prueba de estrés de capacidad de pago inmobiliaria](08-hojas-de-trabajo/Prueba_de_estres_de_capacidad_de_pago_inmobiliaria.csv)
-- [Seguimiento de título y cierre inmobiliario](08-hojas-de-trabajo/Seguimiento_de_titulo_y_cierre_inmobiliario.csv)
-- [Registro de control de pagos inmobiliarios](08-hojas-de-trabajo/Registro_de_control_de_pagos_inmobiliarios.csv)
+- [Seguimiento de título y cierre de propiedad](08-hojas-de-trabajo/Seguimiento_de_titulo_y_cierre_de_propiedad.csv)
+- [Registro de control de pagos de propiedad](08-hojas-de-trabajo/Registro_de_control_de_pagos_de_propiedad.csv)
 - [Libro mensual de propiedad en alquiler](08-hojas-de-trabajo/Libro_mensual_de_propiedad_en_alquiler.csv)
 - [Registro de evaluación de arrendatarios y contratos](08-hojas-de-trabajo/Registro_de_evaluacion_de_arrendatarios_y_contratos.csv)
 - [Prueba de estrés de propiedad en alquiler](08-hojas-de-trabajo/Prueba_de_estres_de_propiedad_en_alquiler.csv)
 - [Seguimiento de presupuesto y cronograma de renovación](08-hojas-de-trabajo/Seguimiento_de_presupuesto_y_cronograma_de_renovacion.csv)
 - [Registro de órdenes de cambio de renovación](08-hojas-de-trabajo/Registro_de_ordenes_de_cambio_de_renovacion.csv)
 - [Registro de control de pagos a contratistas](08-hojas-de-trabajo/Registro_de_control_de_pagos_a_contratistas.csv)
-- [Registro de compradores y ofertas inmobiliarias](08-hojas-de-trabajo/Registro_de_compradores_y_ofertas_inmobiliarias.csv)
-- [Conciliación de venta y rendimiento inmobiliario](08-hojas-de-trabajo/Conciliacion_de_venta_y_rendimiento_inmobiliario.csv)
+- [Registro de compradores y ofertas de propiedad](08-hojas-de-trabajo/Registro_de_compradores_y_ofertas_de_propiedad.csv)
+- [Conciliación de venta y rendimiento de propiedad](08-hojas-de-trabajo/Conciliacion_de_venta_y_rendimiento_de_propiedad.csv)
+
+---
 
 ## 9. Plantillas reutilizables
 
-- [Paquete completo de plantillas reutilizables en español](09-plantillas/Plantillas_reutilizables.md)
+- [Paquete completo de 19 plantillas en español](09-plantillas/Plantillas_reutilizables.md)
 
-Incluye formularios para investigación, decisiones, preparación, pruebas de estrés, revisión anual, operaciones, jubilación, planificación transfronteriza, emergencias, compra, posesión, hipotecas, alquiler, arrendatarios, contratistas, renovación, venta, revisión final y sospecha de fraude.
+Incluye formularios para investigación, decisiones, preparación para invertir, pruebas de estrés, revisión anual, verificación de operaciones, jubilación, planificación patrimonial, información de emergencia, compra y venta de propiedades, arrendamiento, contratistas, renovación y sospecha de fraude.
 
-## Estado de la edición en español
+---
 
-- [x] 25 de 25 lecciones principales
-- [x] 31 de 31 hojas de trabajo prácticas documentadas en el README principal
-- [x] Paquete complementario con 19 plantillas reutilizables
-- [x] Índice y navegación en español actualizados
-- [x] Originales en inglés preservados
+## Reglas de seguridad
 
-## Aviso importante
+No publique en este repositorio:
 
-Este material tiene fines exclusivamente educativos. No constituye asesoría individualizada legal, tributaria, financiera, crediticia, de inversión ni inmobiliaria.
+- Contraseñas
+- Códigos MFA
+- Frases de recuperación
+- Claves privadas
+- Números completos de cuentas
+- Números completos de identificación
+- Historias clínicas
+- Declaraciones tributarias
+- Extractos bancarios
+- Contratos sin anonimizar
+- Documentos de identidad de arrendatarios
 
-Cuando falte información importante, el estado correcto es:
+Guarde la información sensible en un sistema cifrado y con control de acceso.
+
+## Regla final de preparación
+
+Ninguna inversión queda aprobada únicamente porque exista una lista de verificación.
+
+Cuando falte evidencia material, la decisión correcta es:
 
 **Solo investigación; no realizar ninguna operación.**
 
-[Volver al README principal](../README.md)
+[Volver al README bilingüe principal](../README.md)
