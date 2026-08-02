@@ -1,0 +1,11 @@
+Escenario,Ingreso_mensual_neto_COP,Costo_mensual_de_la_propiedad_COP,Superavit_o_deficit_mensual_COP,Reserva_de_emergencia_COP,Meses_que_dura_la_reserva,Tasa_de_interes,Supuesto_de_tasa_de_cambio,Costo_de_reparacion_COP,Meses_de_vacancia,Valor_estimado_de_la_propiedad_COP,Saldo_del_prestamo_COP,Patrimonio_estimado_COP,Asequible,Accion_requerida,Notas
+Caso_base,,,,,,,,,,,,,,,
+Se_detiene_el_ingreso_laboral,,,,,,,,,,,,,,,
+Tasa_de_interes_mas_2_por_ciento,,,,,,,,,,,,,,,
+Tasa_de_interes_mas_4_por_ciento,,,,,,,,,,,,,,,
+El_COP_se_fortalece,,,,,,,,,,,,,,,
+Reparacion_mayor_3_por_ciento,,,,,,,,,,,,,,,
+Reparacion_mayor_5_por_ciento,,,,,,,,,,,,,,,
+Vacancia_de_seis_meses,,,,,,,,,,,,,,,
+Valor_de_la_propiedad_baja_15_por_ciento,,,,,,,,,,,,,,,
+Valor_de_la_propiedad_baja_25_por_ciento,,,,,,,,,,,,,,,
