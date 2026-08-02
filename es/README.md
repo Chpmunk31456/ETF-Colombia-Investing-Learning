@@ -1,6 +1,6 @@
 # Edición en español — ETF e inversión en Colombia
 
-Esta carpeta contiene la edición completa en español de las 25 lecciones principales del proyecto, preparada para facilitar su lectura, estudio y conversación en familia.
+Esta carpeta contiene la edición completa en español de las 25 lecciones principales, las hojas de trabajo prácticas y un paquete complementario de plantillas reutilizables para facilitar su lectura, estudio y conversación en familia.
 
 ## Cómo utilizar esta edición
 
@@ -57,16 +57,64 @@ Esta carpeta contiene la edición completa en español de las 25 lecciones princ
 24. [Lección 24 — Planificación de renovaciones y controles de contratistas](07-bienes-raices-y-propiedades-en-dificultades/06_Planificacion_de_renovaciones_y_controles_de_contratistas.md)
 25. [Lección 25 — Venta, salida y conciliación de utilidades de propiedades](07-bienes-raices-y-propiedades-en-dificultades/07_Venta_salida_y_conciliacion_de_utilidades_de_propiedades.md)
 
-## Estado de traducción de las lecciones principales
+## 8. Hojas de trabajo prácticas
 
-- [x] Fundamentos de los ETF — 4 de 4
-- [x] Inversiones en Colombia — 3 de 3
-- [x] Planificación transfronteriza — 2 de 2
-- [x] Investigación y gobernanza — 5 de 5
-- [x] Portafolio y jubilación — 3 de 3
-- [x] Prevención del fraude — 1 de 1
-- [x] Bienes raíces y propiedades en dificultades — 7 de 7
-- [x] **Total: 25 de 25 lecciones principales traducidas**
+### ETF, portafolio y jubilación
+
+- [Comparación de ETF](08-hojas-de-trabajo/Comparacion_de_ETF.csv)
+- [Evaluación detallada de ETF](08-hojas-de-trabajo/Evaluacion_detallada_de_ETF.csv)
+- [Puntuación ponderada de ETF](08-hojas-de-trabajo/Puntuacion_ponderada_de_ETF.csv)
+- [Asignación del portafolio](08-hojas-de-trabajo/Asignacion_del_portafolio.csv)
+- [Flujo de caja anual de jubilación](08-hojas-de-trabajo/Flujo_de_caja_anual_de_jubilacion.csv)
+- [Registro de ingresos de jubilación](08-hojas-de-trabajo/Registro_de_ingresos_de_jubilacion.csv)
+
+### Investigación, seguimiento y pruebas
+
+- [Registro maestro de decisiones](08-hojas-de-trabajo/Registro_maestro_de_decisiones.csv)
+- [Registro de evidencia](08-hojas-de-trabajo/Registro_de_evidencia.csv)
+- [Panel de seguimiento del portafolio](08-hojas-de-trabajo/Panel_de_seguimiento_del_portafolio.csv)
+- [Transacciones del portafolio simulado](08-hojas-de-trabajo/Transacciones_del_portafolio_simulado.csv)
+- [Valoraciones del portafolio simulado](08-hojas-de-trabajo/Valoraciones_del_portafolio_simulado.csv)
+- [Seguimiento del plan de aprendizaje de 30 días](08-hojas-de-trabajo/Seguimiento_del_plan_de_aprendizaje_de_30_dias.csv)
+- [Registro de prueba piloto con dinero real](08-hojas-de-trabajo/Registro_de_prueba_piloto_con_dinero_real.csv)
+- [Seguimiento de vencimientos de CDT](08-hojas-de-trabajo/Seguimiento_de_vencimientos_de_CDT.csv)
+
+### Planificación transfronteriza y fraude
+
+- [Inventario transfronterizo de activos y beneficiarios](08-hojas-de-trabajo/Inventario_transfronterizo_de_activos_y_beneficiarios.csv)
+- [Inventario transfronterizo de deudas](08-hojas-de-trabajo/Inventario_transfronterizo_de_deudas.csv)
+- [Matriz de riesgo de estafa](08-hojas-de-trabajo/Matriz_de_riesgo_de_estafa.csv)
+
+### Bienes raíces
+
+- [Comparación de propiedades en dificultades](08-hojas-de-trabajo/Comparacion_de_propiedades_en_dificultades.csv)
+- [Analizador de operaciones inmobiliarias](08-hojas-de-trabajo/Analizador_de_operaciones_inmobiliarias.csv)
+- [Financiación y capacidad de pago inmobiliaria](08-hojas-de-trabajo/Financiacion_y_capacidad_de_pago_inmobiliaria.csv)
+- [Prueba de estrés de capacidad de pago inmobiliaria](08-hojas-de-trabajo/Prueba_de_estres_de_capacidad_de_pago_inmobiliaria.csv)
+- [Seguimiento de título y cierre inmobiliario](08-hojas-de-trabajo/Seguimiento_de_titulo_y_cierre_inmobiliario.csv)
+- [Registro de control de pagos inmobiliarios](08-hojas-de-trabajo/Registro_de_control_de_pagos_inmobiliarios.csv)
+- [Libro mensual de propiedad en alquiler](08-hojas-de-trabajo/Libro_mensual_de_propiedad_en_alquiler.csv)
+- [Registro de evaluación de arrendatarios y contratos](08-hojas-de-trabajo/Registro_de_evaluacion_de_arrendatarios_y_contratos.csv)
+- [Prueba de estrés de propiedad en alquiler](08-hojas-de-trabajo/Prueba_de_estres_de_propiedad_en_alquiler.csv)
+- [Seguimiento de presupuesto y cronograma de renovación](08-hojas-de-trabajo/Seguimiento_de_presupuesto_y_cronograma_de_renovacion.csv)
+- [Registro de órdenes de cambio de renovación](08-hojas-de-trabajo/Registro_de_ordenes_de_cambio_de_renovacion.csv)
+- [Registro de control de pagos a contratistas](08-hojas-de-trabajo/Registro_de_control_de_pagos_a_contratistas.csv)
+- [Registro de compradores y ofertas inmobiliarias](08-hojas-de-trabajo/Registro_de_compradores_y_ofertas_inmobiliarias.csv)
+- [Conciliación de venta y rendimiento inmobiliario](08-hojas-de-trabajo/Conciliacion_de_venta_y_rendimiento_inmobiliario.csv)
+
+## 9. Plantillas reutilizables
+
+- [Paquete completo de plantillas reutilizables en español](09-plantillas/Plantillas_reutilizables.md)
+
+Incluye formularios para investigación, decisiones, preparación, pruebas de estrés, revisión anual, operaciones, jubilación, planificación transfronteriza, emergencias, compra, posesión, hipotecas, alquiler, arrendatarios, contratistas, renovación, venta, revisión final y sospecha de fraude.
+
+## Estado de la edición en español
+
+- [x] 25 de 25 lecciones principales
+- [x] 31 de 31 hojas de trabajo prácticas documentadas en el README principal
+- [x] Paquete complementario con 19 plantillas reutilizables
+- [x] Índice y navegación en español actualizados
+- [x] Originales en inglés preservados
 
 ## Aviso importante
 
